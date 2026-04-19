@@ -1,2 +1,4 @@
 # Banking-System-Simulation
-My Project is about Banking System Simulation
+My Project is about Banking System Simulation A Banking System Simulation is a software application that mimics the fundamental operations of a real banking system in a simplified manner. It is designed to help users understand how banking activities are performed while also providing practical exposure to programming concepts. This type of project is commonly used by students to apply theoretical knowledge of data structures, algorithms, and programming in a real-world context.
+
+The system allows users to create and manage bank accounts by storing essential details such as account number, account holder name, and balance. It supports basic banking operations including depositing money, withdrawing funds, checking account balance, and displaying all account information. These operations are implemented using programming constructs such as structures or classes, along with arrays or vectors to store multiple accounts efficiently.
