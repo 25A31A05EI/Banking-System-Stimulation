@@ -1,0 +1,47 @@
+Algorithm: Banking System Simulation
+
+Step 1: Start
+
+Step 2: Initialize variables
+
+Declare account number, name, balance
+Set initial balance (e.g., 0 or minimum balance)
+
+Step 3: Display Menu
+
+Show options:
+Create Account
+Deposit Money
+Withdraw Money
+Check Balance
+Exit
+
+Step 4: Accept user choice
+
+Step 5: Use decision structure (switch or if-else)
+
+Case 1: Create Account
+Input account number and customer name
+Set initial balance
+Display “Account Created Successfully”
+
+Case 2: Deposit Money
+Input deposit amount
+Add amount to balance
+Display updated balance
+
+Case 3: Withdraw Money
+Input withdrawal amount
+Check if balance ≥ withdrawal amount
+If yes → subtract amount from balance
+If no → display “Insufficient Balance”
+
+Case 4: Check Balance
+Display current balance
+
+Case 5: Exit
+Terminate the program
+
+Step 6: Repeat menu until user selects Exit
+
+Step 7: Stop
